@@ -1,9 +1,5 @@
 html {
   background-color: #dbdbdb;
-  background-image: url("StefPortraitFinal.png");
-  background-repeat: no-repeat;
-  background-size: 1000px;
-  background-attachment: fixed;
 }
 
 .topnav {
@@ -114,6 +110,12 @@ body{
   padding-right: 5%;
   padding-bottom: 5%;
   padding-top: 5%;
+}
+
+.card{
+  background-color: transparent;
+  text-align: center;
+  border-color: transparent;
 }
 
 
