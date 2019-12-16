@@ -70,6 +70,11 @@ body{
 
 .page-footer{
   background-color: #343a40;
+  background-image: url('StefPortraitFinal.png');
+  background-blend-mode: overlay;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: #dbdbdb;
 }
 
 .bgimage {
@@ -79,7 +84,6 @@ body{
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
-  background-attachment: fixed;
   margin-top: 75px;
 }
 .bgimage h5 {
@@ -117,5 +121,10 @@ body{
   text-align: center;
   border-color: transparent;
 }
+
+
+
+
+
 
 
