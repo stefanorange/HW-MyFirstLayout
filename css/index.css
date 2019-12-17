@@ -106,9 +106,12 @@ body{
 .footer a:visited, footer a { 
 color: #df9902;
 }
+
 .footer a:any-link, footer a:active, footer a:hover {
   color: #dfdfdf;
   }
+
+
 
 
 
