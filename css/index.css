@@ -3,7 +3,7 @@ html {
 }
 
 
-.navbar-nav a:visited, .navbar-nav a {
+.navbar-nav a:visited, navbar-nav a{
   color: #df9902 !important;
 }
 
@@ -79,7 +79,7 @@ body{
   border-color: rgb(211, 211, 211);
 }
 
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+.btn-primary:hover, btn-primary:focus, btn-primary:active {
   color: rgb(211, 211, 211);
   background-color: #797979;
   border-color: #8b8b8b;
@@ -110,6 +110,24 @@ color: #df9902;
 .footer a:any-link, footer a:active, footer a:hover {
   color: #dfdfdf;
   }
+
+.card-title a:visited, card-title a{
+  color: #df9902 !important;
+}
+
+.card-title a:hover, card-title a:focus{
+  color: #343a40 !important;
+}
+
+.detail{
+  padding-left:5%!important;
+  padding-right:5%!important;
+  text-align: left;
+}
+
+.top-detail{
+  padding-top: 75px;
+}
 
 
 
