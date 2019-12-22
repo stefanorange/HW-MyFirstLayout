@@ -1,9 +1,12 @@
 html {
-  background-color: #dbdbdb;
+  background-color: #dbdbdb3b;
 }
 
+.navbar-nav a:visited {
+  color: #df9902 !important;
+}
 
-.navbar-nav a:visited, navbar-nav a{
+.navbar-nav {
   color: #df9902 !important;
 }
 
