@@ -107,6 +107,11 @@ body{
   padding-right: 5%;
 }
 
+.col-md-12{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
 .footer a:visited, footer a { 
 color: #df9902;
 }
@@ -132,6 +137,11 @@ color: #df9902;
 .top-detail{
   padding-top: 75px;
 }
+
+.mb-4 {
+  padding-top: 75px;
+}
+
 
 
 
