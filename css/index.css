@@ -2,6 +2,14 @@ html {
   background-color: #dbdbdb3b;
 }
 
+.nav-link {
+  text-align: right !important;
+}
+
+.nav-item {
+  color:  #df9902 !important;
+}
+
 .navbar-nav a:visited {
   color: #df9902 !important;
 }
@@ -17,6 +25,7 @@ html {
 .navbar-nav{
   margin-inline-start: auto;
   margin-right: 20px !important;
+  margin-top: 10px !important;
 }
 
 .navbar-brand{
@@ -31,7 +40,6 @@ body{
 
 .social{
   margin-left:100px;
-  margin-top:10px;
   float: left;
   position: fixed;
   color: #df9902;
@@ -39,7 +47,8 @@ body{
 }
 
 .fab {
-  font-size: 20px;
+  font-size: 18px;
+  margin-top: 8px;
   padding: 5px;
   color: #df9902;
 }
@@ -78,15 +87,15 @@ body{
   padding-left: 20%;
   padding-right: 20%;
 }
-.btn {
-  background-color:#df9902;
-  border-color: rgb(211, 211, 211);
+.btn-primary {
+  background-color:#df9902 !important;
+  border-color: rgb(211, 211, 211) !important;
 }
 
 .btn-primary:hover, btn-primary:focus, btn-primary:active {
-  color: rgb(211, 211, 211);
-  background-color: #797979;
-  border-color: #8b8b8b;
+  color: rgb(211, 211, 211) !important;
+  background-color: #797979 !important;
+  border-color: #8b8b8b !important;
 }
 
 .card-deck {
