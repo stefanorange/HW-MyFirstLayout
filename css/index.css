@@ -108,7 +108,7 @@ body{
 .card{
   background-color: transparent;
   text-align: center;
-  border-color: transparent;
+  border-color: transparent !important;
 }
 
 .col-md-6{
